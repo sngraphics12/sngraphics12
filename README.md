@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm0wdzVjcXd2Y3dlOXU0Y3d0dnFhYnE0ZnlpaGlrbmd2eGp5N25wMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ln7z2eWkii5tW/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer Animation">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Saira Naz</h1>
 <h3 align="center">🚀 Full Stack PHP Laravel Developer | Frontend Expert | UI/UX Designer | Graphic Designer | Video Editor</h3>
@@ -87,7 +88,6 @@
 
 ---
 
-## 💬 Quote That Inspires Me
 <p align="center">
   <i>"Keep learning, keep building, keep growing."</i> 
 </p>
