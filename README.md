@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" alt="Laptop Coding">
+  <img src="./assets/developer-female-3d.png" width="300" alt="3D Female Developer" />
 </p>
 
 
