@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/developer-female-3d.png" width="300" alt="3D Female Developer" />
+  <img src="https://raw.githubusercontent.com/raihan2bd/raihan2bd/main/code.gif" width="300" alt="Coding Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&center=true&width=435&lines=Hi%2C+I'm+Ali+Aftab+Sheikh;Full+Stack+PHP+%26+Laravel+Developer;Frontend+Expert+%7C+UI%2FUX+Designer;Video+Editor+%7C+Creative+Thinker" alt="Typing Animation" />
 </p>
 
 
