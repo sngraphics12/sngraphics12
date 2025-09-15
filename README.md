@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer Animation">
+  <img src="https://raw.githubusercontent.com/raihan2bd/raihan2bd/main/code.gif" width="300" alt="Coding Animation">
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Saira Naz</h1>
